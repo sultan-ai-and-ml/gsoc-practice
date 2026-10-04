@@ -1,2 +1,3 @@
 I am preparing for GSOC 2026-27. My GitHub username is sultan-ai-and-ml.
 Day 2: I learned to commit and push.
+Day2: I learned to commit and push.
